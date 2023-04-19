@@ -1,0 +1,8 @@
+--template=~/software/rails/template.rb
+--database=sqlite3
+--css=tailwind
+--skip-jbuilder
+--skip-action-cable
+--skip-action-mailer
+--skip-action-mailbox
+--skip-action-text
